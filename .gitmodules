@@ -1,0 +1,6 @@
+[submodule "clang-crepuscular"]
+	path = clang-crepuscular
+	url = https://gitlab.com/EndCredits/clang-crepuscular
+[submodule "yay-bin"]
+	path = yay-bin
+	url = https://aur.archlinux.org/yay-bin
