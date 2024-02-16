@@ -16,3 +16,5 @@ startup a container
 ```sh
 docker run -it picasso-build-host
 ```
+
+and then clone the kernel sources from here: https://github.com/EndCredits/kernel_xiaomi_sm7250
